@@ -1,4 +1,5 @@
 <keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="Console.History.Browse" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorDeleteLine">
@@ -39,7 +40,9 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="RecentFiles" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -52,6 +55,7 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
   </action>
+  <action id="ToggleFindInSelection" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
