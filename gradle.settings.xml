@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="//wsl$/Ubuntu-20.04/home/huntszy/.gradle" />
+    <option name="serviceDirectoryPath" value="$USER_HOME$/.gradle" />
   </component>
 </application>
