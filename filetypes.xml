@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="source" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="proprties" type="PLAIN_TEXT" />
       <mapping ext="klib" type="PLAIN_TEXT" />
       <mapping ext="locationspattern" type="ktor locations pattern" />
