@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab-okt.sed.hu" />
           <option name="userName" value="h645128" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="batorihunor@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
